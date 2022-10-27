@@ -1,0 +1,24 @@
+<div class="mt-5">
+  <form novalidate (ngSubmit)="onPostArticle()" [formGroup]="articleForm">
+    <h5 class="mb-3">New article</h5>
+    <div class="mb-3">
+      <label for="title" class="form-label">Title</label>
+      <input
+        type="text"
+        class="form-control"
+        id="title"
+        formControlName="title"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="paragraph" class="form-label">Paragraph</label>
+      <textarea
+        type="text"
+        class="form-control"
+        id="paragraph"
+        formControlName="paragraph"
+      ></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Post article</button>
+  </form>
+</div>

@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "3",
+      "title": "faucibus condimentum",
+      "paragraph": "arcu pellentesque. Nullam eget tortor vel nibh finibus fringilla. Donec malesuada eu magna quis dictum. In porta finibus ornare. Morbi elit massa, ultricies a nibh non, porttitor semper eros. In ultricies mattis fermentum"
+    },
+    {
+      "title": "Nam ut sapien",
+      "paragraph": "Mauris non auctor risus. Vivamus est nunc, varius ut finibus ut, semper eget ipsum. Aliquam in ligula vitae ex mattis posuere a eu risus. Nam tortor tortor, maximus eget vehicula et, gravida ac massa. Integer tempor, tellus rhoncus vulputate rutrum",
+      "id": "PPVtzqm"
+    },
+    {
+      "title": "Integer lorem mi",
+      "paragraph": "Vivamus neque mauris, porta nec neque quis, tincidunt commodo turpis. Donec ultrices venenatis diam, non accumsan metus dignissim nec. Pellentesque lobortis sit amet nisi in blandit. Pellentesque mollis ante id fermentum fringilla",
+      "id": "2l1lE7T"
+    }
+  ]
+}
